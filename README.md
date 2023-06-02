@@ -5,19 +5,16 @@
 
 <p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=giova07" alt="giova07" /></a > </p>
 
-<p align="left"> <a href="https://twitter.com/giova77_" target="blank"><img src="https://img.shields.io/twitter /seguir/giova77_?logo=twitter&style=for-the-badge" alt="giova77_" /></a> </p>
-
 - 🔭 Actualmente estoy trabajando en [APP MATH](https://github.com/GiovA07/SUG)
 
 - 🌱 Actualmente estoy aprendiendo **Estudiando en la Universidad "Universidad Nacional Rio Cuarto"**
 
-- 💬 Pregúntame sobre **Me gusta tu mama**
+- 💬 Pregúntame sobre **Me gusta tu mamá**
 
 - 📫 Cómo contactarme **giovabuchieri@gmail.com**
 
-< h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://twitter.com/giova77_" target="blank"><img align="center " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giova77_" height="30" width= "40" /></a>
+<h3 align="left">Conéctate conmigo:</h3>
+<p align= "izquierda">
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
@@ -25,5 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giova07&show_icons=true&locale=en&layout=compact" alt="giova07" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=giova07&show_icons=true&locale=en" alt="giova07" /> </p>
-
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=giova07&show_icons=true&locale=en" alt="giova07" /> </p>
