@@ -1,10 +1,6 @@
 <h1 align="center">Hola 👋, soy Giova</h1>
 <h3 align="center">Desarrollador frontend apasionado de Argentina</h3>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=giova07&label=Profile%20views&color=0e75b6&style=flat" alt="giova07" /> </p>
-
-<p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=giova07" alt="giova07" /></a > </p>
-
 - 🔭 Actualmente estoy trabajando en [APP MATH](https://github.com/GiovA07/SUG)
 
 - 🌱 Actualmente estoy aprendiendo **Estudiando en la Universidad "Universidad Nacional Rio Cuarto"**
