@@ -1,5 +1,5 @@
 # ☠️ About Me:
-🔭 Actualmente estoy trabajando en APP MATH<br><br>🌱 Actualmente estoy aprendiendo Estudiando en la Universidad Nacional Rio Cuarto"<br><br>💬 Pregúntame sobre Me gusta tu mama<br><br>📫 Cómo contactarme giovabuchieri@gmail.com
+🔭 Actualmente estoy trabajando en APP MATH<br><br>🌱 Actualmente estoy aprendiendo Estudiando en la Universidad Nacional Rio Cuarto"<br><br>💬 Pregúntame sobre <br><br>📫 Cómo contactarme giovabuchieri@gmail.com
 
 
 # 💻 Tech Stack:
