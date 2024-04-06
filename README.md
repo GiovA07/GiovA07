@@ -1,5 +1,5 @@
 # ☠️ About Me:
-🌱 Actualmente estoy aprendiendo Estudiando en la Universidad Nacional Rio Cuarto"<br><br>💬 Pregúntame sobre <br><br>📫 Cómo contactarme giovabuchieri@gmail.com
+🎓 Analista en computacion"<br><br>🌱 Actualmente estoy Estudiando en la Universidad Nacional Rio Cuarto"<br><br>💬 Pregúntame sobre <br><br>📫 Cómo contactarme giovabuchieri@gmail.com
 
 
 # 💻 Tech Stack:
